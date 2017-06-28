@@ -5,7 +5,7 @@ Pequeno projeto com um programa que lê todas as linhas do arquivo CSV utilizand
 
     count * - escreve no console a contagem total de registros.
     count distinct [coluna] - escreve no console o total de valores distintos da coluna.
-    filter [coluna] [valor] - escreve no console a linha de cabeçalho e todas as linhas em que a coluna enviada possua o valor                                 enviado.
+    filter [coluna] [valor] - escreve no console a linha de cabeçalho e todas as linhas em que a coluna enviada possua o valor enviado.
 
 ### Execução do programa
 Para execução do programa, executar no console o comando mvn clean install para gerar o jar, em seguida executar o jar criado (java -jar java-1.0.jar) que está na raiz do projeto.
